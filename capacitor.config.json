@@ -1,0 +1,8 @@
+{
+  "appId": "next.js.netflix.dci.salar",
+  "appName": "next-js-netflix-dci-salar",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  }
+}

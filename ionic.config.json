@@ -1,0 +1,7 @@
+{
+  "name": "next-js-netflix-dci-salar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
