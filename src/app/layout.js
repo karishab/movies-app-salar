@@ -13,7 +13,6 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-    <meta name="google-site-verification" content="Vt47WMuqifduUSZgHMHMasqcZHGAYEs7jG1pVF7zWRc" />
       <body className={inter.className}>
         <NextAuthProvider>
           <GlobalState>{children}</GlobalState>
