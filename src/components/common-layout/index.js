@@ -14,7 +14,7 @@ export default function CommonLayout({ mediaData }) {
       viewport={{ once: true }}
     >
       <Head>
-        <title>Netflix Clone</title>
+        <title>movies-app Clone</title>
         {/* to do -> to add all other properties */}
       </Head>
       <>

@@ -25,7 +25,7 @@ export async function POST(req) {
     if (checkPin) {
       return NextResponse.json({
         success: true,
-        message: "Welcome to Netflix!",
+        message: "Welcome to Movies-App!",
       });
     } else {
       return NextResponse.json({

@@ -102,7 +102,7 @@ export default function Navbar() {
             src="https://rb.gy/ulxxee"
             width={120}
             height={120}
-            alt="NETFLIX"
+            alt="Movies-App"
             className="cursor-pointer object-contain"
             onClick={() => router.push("/browse")}
           />
